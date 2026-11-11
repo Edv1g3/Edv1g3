@@ -24,7 +24,7 @@ Right now, I'm actively taking my background in engineering and web architecture
 ### 📦 My projects
 - 🪦 **Small Monumental Cemetery Management Web App** — A full-stack application (DB to UI) built from scratch for visitors and admins, featuring advanced controlled CRUDs and an interactive map interface for navigation.
 
-- 🍃 **Galactic Scrap** — A focused Angular project built to master advanced frontend concepts like component architecture, promises, and async timers through a sci-fi repair workshop theme.
+- ⚙️ **Galactic Scrap** — A focused Angular project built to master advanced frontend concepts like component architecture, promises, and async timers through a sci-fi repair workshop theme.
 ---
 
 ### 💬 Let's Connect
